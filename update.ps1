@@ -19,7 +19,7 @@ param(
 $ErrorActionPreference = 'Stop'
 
 # --- settings ---------------------------------------------------------------
-$SourcePath   = 'C:\Users\yaniv\Desktop\Master- first year\טיפול משפחתי\מטלת סיום\מיטשל_שתי_שקופיות_קלוד_V3.1.html'
+$SourcePath   = 'C:\Users\yaniv\Desktop\Master- first year\טיפול משפחתי\מטלת סיום\מיטשל_שתי_שקופיות_קלוד_V3.3.html'
 $RepoDir      = $PSScriptRoot
 $TemplatePath = Join-Path $RepoDir 'template\password_template.html'
 $StaticryptVersion = '3.5.4'
